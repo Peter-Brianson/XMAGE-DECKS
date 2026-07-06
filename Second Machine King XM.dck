@@ -1,14 +1,17 @@
-1 [TMC:59] Sol Ring
+1 [SUM:274] Sol Ring
 1 [5ED:388] Mana Vault
 1 [ULG:126] Grim Monolith
 1 [SUM:235] Basalt Monolith
+1 [WWK:123] Everflowing Chalice
 1 [TMP:294] Lotus Petal
-1 [STH:138] Mox Diamond
 1 [SOM:179] Mox Opal
-1 [M20:230] Manifold Key
+1 [MRD:274] Welding Jar
+1 [FDN:724] Expedition Map
+1 [BRC:145] Liquimetal Torque
 1 [M11:219] Voltaic Key
 1 [MID:255] Moonsilver Key
 1 [UDS:135] Metalworker
+1 [DST:156] Voltaic Construct
 1 [LCI:249] Chimil, the Inner Sun
 1 [ZNR:244] Forsaken Monument
 1 [M20:233] Mystic Forge
@@ -16,7 +19,6 @@
 1 [THB:236] Shadowspear
 1 [LRW:259] Rings of Brighthearth
 1 [5DN:156] Staff of Domination
-1 [ONE:242] Staff of Compleation
 1 [NPH:148] Omen Machine
 1 [M14:209] Elixir of Immortality
 1 [RIX:180] The Immortal Sun
@@ -29,9 +31,10 @@
 1 [5ED:391] Nevinyrral's Disk
 1 [MBS:136] Spine of Ish Sah
 1 [AER:171] Planar Bridge
-1 [8ED:311] Planar Portal
 1 [SOM:145] Contagion Engine
+1 [BFZ:13] Scour from Existence
 1 [WAR:1*] Karn, the Great Creator
+1 [USG:298] Karn, Silver Golem
 1 [M19:229] Crucible of Worlds
 1 [SOM:169] Kuldotha Forgemaster
 1 [BLC:264] Academy Manufactor
@@ -41,28 +44,31 @@
 1 [DRC:19] Stridehangar Automaton
 1 [DTK:234] Ancestral Statue
 1 [MKC:233] Nettlecyst
-1 [5DN:107] Blasting Station
-1 [5DN:148] Salvaging Station
-1 [5DN:158] Summoning Station
 1 [KTK:216] Altar of the Brood
 1 [MH3:7] Glaring Fleshraker
-1 [M15:231] Soul of New Phyrexia
 1 [AER:175] Scrap Trawler
-1 [ORI:229] Hangarback Walker
-1 [SOS:3] Sundering Archaic
 1 [CMR:317] Ingenuity Engine
+1 [40K:157*] The Golden Throne
 1 [TLA:261] The Walls of Ba Sing Se
 1 [M14:206] Darksteel Forge
 1 [DST:130] Mycosynth Lattice
 1 [AFR:240] Bag of Holding
 1 [BRO:240] Portal to Phyrexia
-1 [DST:114] Darksteel Reactor
 1 [LCI:257] The Millennium Calendar
 1 [CLB:343] Vexing Puzzlebox
 1 [EXO:136] Null Brooch
 1 [SOI:265+a] Tamiyo's Journal
 1 [ISD:236] Witchbane Orb
 1 [MH3:4] Echoes of Eternity
+1 [M11:212] Platinum Angel
+1 [M13:200] Akroma's Memorial
+1 [CMR:315] Horizon Stone
+1 [KLD:222] Metalwork Colossus
+1 [C20:68] Manascape Refractor
+1 [10E:321] Doubling Cube
+1 [TMT:172] Chrome Dome
+1 [M12:218] Sundial of the Infinite
+1 [MBS:114] Mirrorworks
 1 [TMP:315] Ancient Tomb
 1 [EXO:143] City of Traitors
 1 [ATQ:81] Mishra's Workshop
@@ -83,20 +89,14 @@
 1 [9ED:329] Urza's Tower
 1 [4ED:363] Strip Mine
 1 [TMP:330] Wasteland
-1 [FDN:687] Demolition Field
+1 [FCA:64] Command Beacon
 1 [ISD:240] Ghost Quarter
 1 [6ED:322] Crystal Vein
-1 [BFZ:245] Shrine of the Forsaken Gods
+1 [LCI:410a] Cavern of Souls
 1 [GTC:248] Thespian's Stage
-1 [TSP:281] Vesuva
+1 [TSP:274] Gemstone Caverns
 1 [MH3:234] Urza's Cave
 1 [BIG:29] Fomori Vault
-1 [M20:247] Field of the Dead
-1 [BFZ:13] Scour from Existence
-1 [V15:13] Platinum Angel
-1 [40K:157*] The Golden Throne
-1 [MBS:114] Mirrorworks
-1 [CMR:315] Horizon Stone
 SB: 1 [MAT:49] Karn, Legacy Reforged
-LAYOUT MAIN:(1,10)(CMC,false,50)|([TMP:294],[STH:138],[SOM:179],[ORI:229],[TMP:315],[EXO:143],[ATQ:81],[MH3:233],[MB2:114],[KLD:247],[M12:224],[M15:242],[AFR:261],[ONE:256],[MRD:279],[BRO:258],[WWK:136],[BFZ:242],[BRC:28],[9ED:327],[9ED:328],[9ED:329],[4ED:363],[TMP:330],[FDN:687],[ISD:240],[6ED:322],[BFZ:245],[GTC:248],[TSP:281],[MH3:234],[BIG:29],[M20:247])([TMC:59],[5ED:388],[M20:230],[M11:219],[CHK:268],[THB:236],[M14:209],[KTK:216],[AFR:240],[LCI:257])([ULG:126],[MID:255])([SUM:235],[UDS:135],[LRW:259],[5DN:156],[ONE:242],[10E:342],[M19:229],[BLC:264],[NEO:250],[DRC:19],[MKC:233],[5DN:107],[MH3:7],[AER:175],[CLB:343])([M20:233],[5DN:134],[NPH:164],[DOM:217],[5DN:163],[TSB:110],[5ED:391],[WAR:1*],[M13:202],[DTK:234],[DST:114],[EXO:136],[ISD:236],[40K:157*])([ZNR:244],[SOM:169],[BIG:28],[SOI:265+a],[MBS:114],[CMR:315])([LCI:249],[NPH:148],[RIX:180],[AER:171],[8ED:311],[SOM:145],[5DN:148],[M15:231],[SOS:3],[DST:130],[MH3:4])([MBS:136],[5DN:158],[CMR:317],[BFZ:13],[V15:13])([TLA:261])([M14:206],[BRO:240])
+LAYOUT MAIN:(1,11)(CMC,false,50)|([WWK:123],[TMP:294],[SOM:179],[MRD:274],[TMP:315],[EXO:143],[ATQ:81],[MH3:233],[MB2:114],[KLD:247],[M12:224],[M15:242],[AFR:261],[ONE:256],[MRD:279],[BRO:258],[WWK:136],[BFZ:242],[BRC:28],[9ED:327],[9ED:328],[9ED:329],[4ED:363],[TMP:330],[FCA:64],[ISD:240],[6ED:322],[LCI:410a],[GTC:248],[TSP:274],[MH3:234],[BIG:29])([SUM:274],[5ED:388],[FDN:724],[M11:219],[CHK:268],[THB:236],[M14:209],[KTK:216],[AFR:240],[LCI:257])([ULG:126],[BRC:145],[MID:255],[10E:321],[TMT:172],[M12:218])([SUM:235],[UDS:135],[LRW:259],[5DN:156],[10E:342],[M19:229],[BLC:264],[NEO:250],[DRC:19],[MKC:233],[MH3:7],[AER:175],[CLB:343],[C20:68])([DST:156],[M20:233],[5DN:134],[NPH:164],[DOM:217],[5DN:163],[TSB:110],[5ED:391],[WAR:1*],[M13:202],[DTK:234],[40K:157*],[EXO:136],[ISD:236])([ZNR:244],[USG:298],[SOM:169],[BIG:28],[SOI:265+a],[CMR:315],[MBS:114])([LCI:249],[NPH:148],[RIX:180],[AER:171],[SOM:145],[DST:130],[MH3:4])([MBS:136],[BFZ:13],[CMR:317],[M11:212],[M13:200])([TLA:261])([M14:206],[BRO:240])([KLD:222])
 LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MAT:49])
