@@ -5,62 +5,62 @@
 1 [M12:165] Birds of Paradise
 1 [LTR:158] Delighted Halfling
 1 [ELD:160] Gilded Goose
-1 [EVE:66] Bloom Tender
+1 [ECL:166] Bloom Tender
 1 [ELD:190] Faeburrow Elder
 1 [CLB:237] Jaheira, Friend of the Forest
 1 [5ED:316] Nature's Lore
-1 [FIC:315] Three Visits
-1 [H2R:2] Esper Sentinel
-1 [5ED:329] Sylvan Library
-1 [ELD:161] The Great Henge
+1 [MSC:181] Three Visits
 1 [RNA:22] Smothering Tithe
-1 [ELD:179] Trail of Crumbs
-1 [BLC:264] Academy Manufactor
-1 [J25:728] Tireless Provisioner
-1 [PIP:137] Nuka-Cola Vending Machine
-1 [ELD:197] Oko, Thief of Crowns
-1 [WHO:11] Astrid Peth
-1 [CLU:1] Apothecary White
 1 [WOE:178] Night of the Sweets' Revenge
+1 [FCA:5] Urza, Lord High Artificer
+1 [5ED:329] Sylvan Library
+1 [BLC:264] Academy Manufactor
+1 [PIP:137] Nuka-Cola Vending Machine
+1 [BIG:28] Transmutation Font
+1 [M13:202] Clock of Omens
+1 [SOI:265+a] Tamiyo's Journal
+1 [ARB:31] Time Sieve
+1 [TMC:32] Ninja Pizza
 1 [AKH:2] Anointed Procession
 1 [FDN:216] Doubling Season
+1 [J25:728] Tireless Provisioner
 1 [10E:296] Seedborn Muse
 1 [ONE:23] Mondrak, Glory Dominus
 1 [INV:237] Captain Sisay
 1 [KHM:168] Esika, God of the Tree
-1 [LTR:286] Elanor Gardner
-1 [LTR:27] Rosie Cotton of South Lane
 1 [LTR:222] Samwise Gamgee
-1 [LTC:7] Sam, Loyal Attendant
-1 [LTC:61] Merry, Warden of Isengard
 1 [LTC:65] Pippin, Warden of Isengard
 1 [LTR:181] Peregrin Took
-1 [WOE:205] Greta, Sweettooth Scourge
 1 [BLB:207] Camellia, the Seedmiser
-1 [C21:332] Gyome, Master Chef
+1 [SOC:313] Gyome, Master Chef
 1 [EOE:224] Ragost, Deft Gastronaut
-1 [MAT:44] Rocco, Street Chef
-1 [LTC:55] Farmer Cotton
-1 [PIP:25] Sierra, Nuka's Biggest Fan
 1 [BLB:241] Ygra, Eater of All
-1 [WOE:204] The Goose Mother
-1 [SNC:193] Jetmir, Nexus of Revels
-1 [ICE:54] Swords to Plowshares
-1 [CON:15] Path to Exile
-1 [MKM:187] Assassin's Trophy
-1 [SOI:242] Anguished Unmaking
-1 [NPH:103] Beast Within
-1 [BLC:106] Generous Gift
-1 [RTR:35] Cyclonic Rift
-1 [M21:188] Heroic Intervention
-1 [STA:11] Teferi's Protection
+1 [ELD:81] Cauldron Familiar
+1 [MH3:110] Warren Soultrader
+1 [LCI:224] Bartolome del Presidio
+1 [MKC:215] Lonis, Cryptozoologist
+1 [VIS:43] Shrieking Drake
+1 [BLC:82] Chatterfang, Squirrel General
+1 [RIX:81] Pitiless Plunderer
+1 [LTR:421] Mirkwood Bats
+1 [WOE:314] Experimental Confectioner
+1 [CLU:2] Senator Peacock
+1 [MSC:734] Tippy-Toe, Terrific Partner
 1 [PLS:106] Eladamri's Call
 1 [6ED:19] Enlightened Tutor
 1 [SUM:105] Demonic Tutor
 1 [6ED:269] Worldly Tutor
 1 [WAR:160] Finale of Devastation
-1 [FCA:21] Akroma's Will
-1 [TDM:138] Craterhoof Behemoth
+1 [BRO:324] Diabolic Intent
+1 [EMN:155] Eldritch Evolution
+1 [ALA:60] Tezzeret the Seeker
+1 [ICE:54] Swords to Plowshares
+1 [MKM:187] Assassin's Trophy
+1 [SOI:242] Anguished Unmaking
+1 [NPH:103] Beast Within
+1 [RTR:35] Cyclonic Rift
+1 [M21:188] Heroic Intervention
+1 [TLE:7] Teferi's Protection
 1 [ELD:333] Command Tower
 1 [CON:142] Exotic Orchard
 1 [JOU:163] Mana Confluence
@@ -77,14 +77,14 @@
 1 [SNC:261] Ziatora's Proving Ground
 1 [SNC:254] Raffine's Tower
 1 [SNC:257] Spara's Headquarters
-1 [ECL:268] Temple Garden
-1 [ECL:266] Overgrown Tomb
+1 [ECL:351b] Temple Garden
+1 [ECL:350b] Overgrown Tomb
 1 [EOE:254] Godless Shrine
 1 [EOE:258] Stomping Ground
 1 [EOE:256] Sacred Foundry
-1 [ECL:262] Blood Crypt
+1 [ECL:349b] Blood Crypt
 1 [EOE:251] Breeding Pool
-1 [ECL:265] Hallowed Fountain
+1 [ECL:347b] Hallowed Fountain
 1 [KTK:248] Windswept Heath
 1 [ZEN:219] Marsh Flats
 1 [ZEN:229] Verdant Catacombs
@@ -95,8 +95,8 @@
 1 [KTK:233] Flooded Strand
 1 [SPG:38] Prismatic Vista
 1 [LTR:260] The Shire
-1 [TLA:286] Forest
-1 [TLA:282] Plains
+1 [HOB:198] Forest
+1 [HOB:194] Plains
 SB: 1 [H1R:6] Sisay, Weatherlight Captain
-LAYOUT MAIN:(1,8)(CMC,false,50)|([DOM:224],[ELD:333],[CON:142],[JOU:163],[8ED:322],[SHM:278*],[DMU:252],[KHM:275],[NEO:266],[NEO:271],[NEO:268],[NEO:278],[IKO:248],[SNC:250],[SNC:261],[SNC:254],[SNC:257],[ECL:268],[ECL:266],[EOE:254],[EOE:258],[EOE:256],[ECL:262],[EOE:251],[ECL:265],[KTK:248],[ZEN:219],[ZEN:229],[KTK:249],[ZEN:211],[KTK:230],[ZEN:220],[KTK:233],[SPG:38],[LTR:260],[TLA:286],[TLA:282])([SUM:274],[M12:165],[LTR:158],[ELD:160],[H2R:2],[ICE:54],[CON:15],[6ED:19],[6ED:269])([ELD:331],[EVE:66],[5ED:316],[FIC:315],[5ED:329],[ELD:179],[WHO:11],[LTR:222],[LTC:65],[EOE:224],[LTC:55],[WOE:204],[MKM:187],[RTR:35],[M21:188],[PLS:106],[SUM:105],[WAR:160])([DMU:236],[ELD:190],[CLB:237],[BLC:264],[J25:728],[PIP:137],[ELD:197],[KHM:168],[LTR:27],[LTC:7],[LTC:61],[LTR:181],[WOE:205],[BLB:207],[MAT:44],[SOI:242],[NPH:103],[BLC:106],[STA:11])([RNA:22],[CLU:1],[WOE:178],[AKH:2],[ONE:23],[INV:237],[LTR:286],[C21:332],[PIP:25],[SNC:193],[FCA:21])([FDN:216],[10E:296],[BLB:241])([TDM:138])([ELD:161])
+LAYOUT MAIN:(1,6)(CMC,false,50)|([DOM:224],[ELD:333],[CON:142],[JOU:163],[8ED:322],[SHM:278*],[DMU:252],[KHM:275],[NEO:266],[NEO:271],[NEO:268],[NEO:278],[IKO:248],[SNC:250],[SNC:261],[SNC:254],[SNC:257],[ECL:351b],[ECL:350b],[EOE:254],[EOE:258],[EOE:256],[ECL:349b],[EOE:251],[ECL:347b],[KTK:248],[ZEN:219],[ZEN:229],[KTK:249],[ZEN:211],[KTK:230],[ZEN:220],[KTK:233],[SPG:38],[LTR:260],[HOB:198],[HOB:194])([SUM:274],[M12:165],[LTR:158],[ELD:160],[ELD:81],[VIS:43],[6ED:19],[6ED:269],[ICE:54])([ELD:331],[ECL:166],[5ED:316],[MSC:181],[5ED:329],[ARB:31],[LTR:222],[LTC:65],[EOE:224],[LCI:224],[MKC:215],[PLS:106],[SUM:105],[WAR:160],[BRO:324],[MKM:187],[RTR:35],[M21:188])([DMU:236],[ELD:190],[CLB:237],[BLC:264],[PIP:137],[TMC:32],[J25:728],[KHM:168],[LTR:181],[BLB:207],[MH3:110],[BLC:82],[WOE:314],[EMN:155],[SOI:242],[NPH:103],[TLE:7])([RNA:22],[WOE:178],[FCA:5],[M13:202],[AKH:2],[ONE:23],[INV:237],[SOC:313],[RIX:81],[LTR:421],[MSC:734])([BIG:28],[SOI:265+a],[FDN:216],[10E:296],[BLB:241],[CLU:2],[ALA:60])
 LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([H1R:6])
